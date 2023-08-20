@@ -1,0 +1,8 @@
+C:\Projects\denemeler\karinca\AWSTest\AWSTest\bin\Debug\AWSTest.exe.config
+C:\Projects\denemeler\karinca\AWSTest\AWSTest\bin\Debug\AWSTest.exe
+C:\Projects\denemeler\karinca\AWSTest\AWSTest\bin\Debug\AWSTest.pdb
+C:\Projects\denemeler\karinca\AWSTest\AWSTest\obj\Debug\AWSTest.csproj.AssemblyReference.cache
+C:\Projects\denemeler\karinca\AWSTest\AWSTest\obj\Debug\AWSTest.csproj.SuggestedBindingRedirects.cache
+C:\Projects\denemeler\karinca\AWSTest\AWSTest\obj\Debug\AWSTest.csproj.CoreCompileInputs.cache
+C:\Projects\denemeler\karinca\AWSTest\AWSTest\obj\Debug\AWSTest.exe
+C:\Projects\denemeler\karinca\AWSTest\AWSTest\obj\Debug\AWSTest.pdb
